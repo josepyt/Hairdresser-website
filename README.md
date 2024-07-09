@@ -1,4 +1,4 @@
-# Hairdresser-website
+# Hairdresser Website
 Made for university project. A barber website
 
 I made this project with 4 friend.
